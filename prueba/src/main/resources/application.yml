@@ -1,0 +1,28 @@
+server:
+  port: 8087
+  servlet:
+    context-path: '/usr-distribution/'
+
+spring:
+  profiles:
+    active: dev
+  application:
+    name: usr-distribution
+    
+
+urs:
+  prov:
+    max: 24
+    min: 1
+  canton:
+    max: 20
+    min: 1
+  parroq:
+    max: 100
+    min: 1
+  api:
+    url:
+      distribution: 'https://gist.githubusercontent.com/emamut/6626d3dff58598b624a1/raw/166183f4520c4603987c55498df8d2983703c316/provincias.json'
+      timeOutConnect: 5000
+      timeOutRead: 5000    
+    
