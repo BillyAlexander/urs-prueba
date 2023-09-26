@@ -50,5 +50,6 @@ http://localhost:8087/usr-distribution/distribution/
 ```
 Para el frontend abrir en el navegador el archivo pruebaapp/index.html
 
+![.](https://raw.githubusercontent.com/BillyAlexander/urs-prueba/ursdev_villa_edwin/Screenshot.png)
 ![.](https://raw.githubusercontent.com/BillyAlexander/urs-prueba/ursdev_villa_edwin/app.jpg)
 ![.](https://raw.githubusercontent.com/BillyAlexander/urs-prueba/ursdev_villa_edwin/backend.jpg)
